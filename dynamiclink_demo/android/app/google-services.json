@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071960751549",
+    "project_id": "dynamiclinkdemo-de454",
+    "storage_bucket": "dynamiclinkdemo-de454.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071960751549:android:46ac59f3de08a8ce4266d4",
+        "android_client_info": {
+          "package_name": "com.example.dynamiclink_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnCsy3Mp0--_ltbViYHtcvyQL_xH20SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
